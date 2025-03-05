@@ -165,13 +165,14 @@ img{
 }
 
 .textone{
+    column-count: 2;
     box-sizing: border-box;
     width: 100%;
     height:auto;
     padding:20px 20px 20px 20px;
     background-color:#ebd64d;
     font-family:'subfont';
-    text-align: start;
+    text-align:left;
     font-weight:bold;
     font-size: 15pt;
     line-height:1.5;
@@ -183,7 +184,7 @@ img{
     font-family: 'subfont';
     font-size: 10pt;
     font-weight: 100;
-    line-height: 0.1;
+    line-height:1.2;
 
 }
 
