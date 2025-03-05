@@ -172,6 +172,7 @@ img{
     padding:20px 20px 20px 20px;
     background-color:#ebd64d;
     font-family:'subfont';
+    hyphens:none;
     text-align:left;
     font-weight:bold;
     font-size: 15pt;
